@@ -9,8 +9,7 @@ Currently no prebuilt binaries are provided.
 To install, a Go installation is needed.
 
 ```sh
-go get code.gitea.io/tea
-go install code.gitea.io/tea
+go install code.gitea.io/tea@latest
 ```
 
 If the `tea` executable is not found, you might need to set up your `$GOPATH` and `$PATH` variables first:
